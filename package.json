@@ -1,0 +1,20 @@
+{
+  "name": "media-studio-ai-m3u8",
+  "version": "0.0.1",
+  "description": "Media Studio AI - M3U8 视频提取与下载工具（Web & Desktop），由 Tool8s.com 提供。",
+  "main": "m3u8-core.js",
+  "scripts": {
+    "test": "echo \"no test yet\""
+  },
+  "keywords": [
+    "m3u8",
+    "downloader",
+    "media-studio-ai",
+    "tool8s",
+    "video",
+    "ts",
+    "mp4"
+  ],
+  "author": "Tool8s.com",
+  "license": "MIT"
+}
